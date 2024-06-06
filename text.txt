@@ -1,2 +1,0 @@
-https://face-recognition-8aea5-default-rtdb.asia-southeast1.firebasedatabase.app
-face-recognition-8aea5.appspot.com
