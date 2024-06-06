@@ -12,8 +12,8 @@ import cvzone
 
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://face-recognition-8aea5-default-rtdb.asia-southeast1.firebasedatabase.app",
-    'storageBucket': 'face-recognition-8aea5.appspot.com'
+    'databaseURL': "",
+    'storageBucket': ''
 })
 
 bucket = storage.bucket()
